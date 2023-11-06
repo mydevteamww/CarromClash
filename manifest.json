@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Fahad And Sons",
+  "description": "Dev Crafts",
   "dir": "ltr",
   "display": "standalone",
-  "name": "CarromClash 3d",
+  "name": "Carrom Clash:3d",
   "orientation": "any",
   "scope": "/",
-  "short_name": "CarromClash 3d",
+  "short_name": "Carrom Clash:3d",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "CarromClash 3d",
+      "name": "Carrom Clash:3d",
       "url": "",
       "description": ""
     }
