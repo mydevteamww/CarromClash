@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Dev Crafts",
+  "description": "",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Carrom Clash:3d",
+  "name": "Carrom Clashs",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Carrom Clash:3d",
+  "short_name": "Carrom Clashs",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Carrom Clash:3d",
+      "name": "Carrom Clashs",
       "url": "",
       "description": ""
     }
