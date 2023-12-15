@@ -3,10 +3,10 @@
   "description": "",
   "dir": "ltr",
   "display": "standalone",
-  "name": "CarromClashs",
+  "name": "Carrom Clashs",
   "orientation": "any",
   "scope": "/",
-  "short_name": "CarromClashs",
+  "short_name": "Carrom Clashs",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "CarromClashs",
+      "name": "Carrom Clashs",
       "url": "",
       "description": ""
     }
